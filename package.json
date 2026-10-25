@@ -1,0 +1,15 @@
+{
+  "name": "ffbot-telegram",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "ffapis": "^3.0.1",
+    "shan-ffapi": "^1.0.0",
+    "telegraf": "^4.16.3"
+  }
+}
